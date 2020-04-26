@@ -16,3 +16,12 @@ QQ群：1080635581
 
 ## 关于作业
 作业基本参照了MIT的原始课程，针对我删掉或者增加的部分进行了一些修改。如果大家做不上来请务必不要气馁（毕竟是MIT的课程），可以在Issue中讨论，也可以PR自己的答案给大家参考。我会在视频更新后一个月放出参考答案。
+
+1. [EP1.Shell作业](./Ep1.Shell作业.md)
+2. [EP2.Shell脚本与工具推荐作业](./Ep2.Shell脚本与工具推荐作业.md)
+3. [EP3.Vim作业](./Ep3.Vim作业.md)
+    - [基础配置文件](https://missing.csail.mit.edu/2020/files/vimrc)
+## 联系我
+Email:yaobl002@gmail.com
+
+bilibili:@YuiTH
