@@ -20,7 +20,10 @@ QQ群：1080635581
 1. [EP1.Shell作业](./Ep1.Shell作业.md)
 2. [EP2.Shell脚本与工具推荐作业](./Ep2.Shell脚本与工具推荐作业.md)
 3. [EP3.Vim作业](./Ep3.Vim作业.md)
-    - [基础配置文件](https://missing.csail.mit.edu/2020/files/vimrc)
+    - [MIT基础配置文件](https://missing.csail.mit.edu/2020/files/vimrc)
+    - [MIT教授Anish](https://github.com/anishathalye/dotfiles/blob/master/vimrc)
+    - [MIT教授Jon(neovim)](https://github.com/jonhoo/configs/blob/master/editor/.config/nvim/init.vim)
+    - [MIT教授Jose](https://github.com/JJGO/dotfiles/blob/master/vim/.vimrc)
 ## 联系我
 Email:yaobl002@gmail.com
 
